@@ -19,17 +19,13 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*9)+ 1);
+var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2017/09/keep-family-when-partner-mentions-divorce.html"}
-if(x=="2"){xxx="/2017/09/ejaculation-to-stay-longer-in-bed.html"}
-if(x=="3"){xxx="/2017/09/digital-marketing-and-choosing-effect-variety.html"}
-if(x=="4"){xxx="/2017/09/most-amazing-stadiums-around-the-experience.html"}
-if(x=="5"){xxx="/2017/09/solutions-windows-10-crashes-issues-after-update.html"}
-if(x=="6"){xxx="/2017/09/modify-intersexual-endurance-with-herbal.html"}
-if(x=="7"){xxx="/2017/09/claims-multiple-health-insurance-policies.html"}
-if(x=="8"){xxx="/2017/09/e-commerce-ideas-service-for-effective-usage.html"}
-if(x=="9"){xxx="/2017/09/aerospace-profession-experts-offer-decision-help.html"}a_to_ve[i].href="https://safelink-egcom9191.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="2"){xxx="/2017/09/digital-marketing-and-choosing-effect-variety.html"}
+if(x=="3"){xxx="/2017/09/most-amazing-stadiums-around-the-experience.html"}
+if(x=="4"){xxx="/2017/09/e-commerce-ideas-service-for-effective-usage.html"}
+if(x=="5"){xxx="/2017/09/aerospace-profession-experts-offer-decision-help.html"}a_to_ve[i].href="https://safelink-egcom9191.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
