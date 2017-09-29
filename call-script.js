@@ -21,6 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
+if(x=="0"){xxx="/2017/09/modify-intersexual-endurance-with-herbal.html"}
 if(x=="1"){xxx="/2017/09/keep-family-when-partner-mentions-divorce.html"}
 if(x=="2"){xxx="/2017/09/digital-marketing-and-choosing-effect-variety.html"}
 if(x=="3"){xxx="/2017/09/most-amazing-stadiums-around-the-experience.html"}
